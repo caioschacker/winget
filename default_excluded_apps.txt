@@ -1,9 +1,0 @@
-Brave.Brave*
-Microsoft.Office
-Microsoft.OneDrive
-Microsoft.RemoteDesktopClient
-Opera.Opera*
-Microsoft.AppInstaller*
-Fortinet.Forticlient*
-Romanitho.Winget-AutoUpdate
-KnifMelti.WAU-Settings-GUI
